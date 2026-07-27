@@ -59,11 +59,11 @@
 Copy the standardized template block below, fill in your professional data, and add it directly under your respective directorate section via a Pull Request:
 
 ```markdown
-- **Name:** [Your Full Name](Your_GitHub_Profile_Link)
-- **Country:** [Your Country]
-- **Role & Specialization:** [Your Title / Expertise]
-- **Core Tasks:** [Brief description of your contributions]
-- **Key Skills:** [Skill 1, Skill 2, Skill 3]
+- **Name:** [ahlamabuawwad](https://github.com/Ahlamabuawwad)
+- **Country:** [Jordan]
+- **Role & Specialization:** [General Manager & Operations Coordinator]
+- **Core Tasks:** Directing the core team and project operations, strategic planning, supervising digital content and outreach workflows, and managing system design & compliance.]
+- **Key Skills:** [Team Leadership & Operations, Strategic Planning, Marketing & Content Direction, Workflow & Compliance Management.]
 ```
 ---
 
